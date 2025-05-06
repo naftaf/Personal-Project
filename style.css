@@ -1,0 +1,12 @@
+#title {
+    font-size: 100px;
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+    color: white;
+    font-weight: lighter;
+    margin-top: 0;
+}
+
+.background { 
+    background-color: #b2dbf7;
+}
